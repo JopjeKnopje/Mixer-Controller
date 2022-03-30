@@ -17,3 +17,4 @@ The idea behind this project is to have physical device to control the windows a
 - [ ] Add photos to repo
 - [ ] Add build instructions
 - [ ] Release a version
+- [ ] Block diagram of workings
